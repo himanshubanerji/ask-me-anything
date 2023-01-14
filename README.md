@@ -8,4 +8,4 @@
 
 ### Images
 
-![Question 2](Screenshots/q2.png)
+![Question 3](Screenshots/q3.png)
