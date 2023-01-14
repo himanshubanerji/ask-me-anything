@@ -8,7 +8,4 @@
 
 ### Images
 
-![Launch Screen](Screenshots/launch-screen.png)
-![Question 1](Screenshots/q1.png) <br>
-![Question 3](Screenshots/q3.png)
-![Question 4](Screenshots/q4.png)
+![Question 2](Screenshots/q2.png)
